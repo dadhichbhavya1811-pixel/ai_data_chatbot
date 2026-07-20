@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+ENV/
+.env
+
+# Data and logs
+logs/
+data/
+*.csv
+*.xlsx
+*.db
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
