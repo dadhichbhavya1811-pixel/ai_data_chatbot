@@ -13,5 +13,5 @@ An interactive, end-to-end data processing and conversational analysis applicati
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/ai-data-analytics-chatbot.git](https://github.com/YOUR_GITHUB_USERNAME/ai-data-analytics-chatbot.git)
+   git clone [https://github.com/YOUR_GITHUB_USERNAME/ai-data-analytics-chatbot.git](https://github.com//ai-data-analytics-chatbot.git)
    cd ai-data-analytics-chatbot
